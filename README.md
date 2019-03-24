@@ -1,3 +1,3 @@
 # Javascript_Notes
-Consists of Javascript notes based on Lecture Tutorials by Bob Tabor, Microsoft 
+Consists of Javascript notes based on Lecture Tutorials by Bob Tabor, Microsoft <br>
 Youtube Video [link](https://www.youtube.com/watch?v=YMvzfQSI6pQ&t=3s)
